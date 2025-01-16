@@ -16,7 +16,7 @@ const Chatbox = () => {
       {/*//body(msgs)*/}
       <div className="chat-msg">
         <div className="sent-msg">
-          <p className="msg">hey how are you?</p>
+          <p className="msg">im fine</p>
           <div>
             <img src={assets.profile_img}></img>
             <p>2:30pm</p>
@@ -31,7 +31,7 @@ const Chatbox = () => {
         </div>
 
         <div className="received-msg">
-          <p className="msg">im fine?</p>
+          <p className="msg">hey how are you?</p>
           <div>
             <img src={assets.profile_img}></img>
             <p>2:30pm</p>
